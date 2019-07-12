@@ -1,2 +1,2 @@
-# uCRobot_CSS
-Code for 5DOF Robotic Arm programming on CSS for Tiva C Series TM4C1294
+# uCRobot_CCS
+Code for 5DOF Robotic Arm programming on CCS for Tiva C Series TM4C1294
